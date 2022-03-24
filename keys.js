@@ -1,1 +1,0 @@
-const MOVIE_API = 'fc56f6cb';
